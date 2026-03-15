@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py
 *$py.class
 
 # C extensions
@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# other
+*.txt
+*.json
+*.zip
+data_offical/
+out_json/
+LLC_zh-CN/
+LocalizeTemp_jp/
+!manifest.json
+!localize_*.zip
