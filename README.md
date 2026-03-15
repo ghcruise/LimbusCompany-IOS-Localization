@@ -58,11 +58,13 @@
     最大尺寸:`0`  
     其他选项不修改 
 ******
+
 - 脚本2:汉化资源包  
+    **强烈建议下载localize_jp.zip并起一个http服务器，并将Link修改为下载链接**  
     脚本:
     ```js
     $httpClient.get(
-    "https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/localize_jp.zip",
+    "Link",
     function(err, resp, data) {
 
         $done({
@@ -75,7 +77,7 @@
     ```
     表达式:
     ```regex
-    localize_jp.zip
+    localize_jp
     ```
     其他选项同脚本1
 
