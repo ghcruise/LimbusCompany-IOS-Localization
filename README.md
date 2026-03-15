@@ -1,6 +1,6 @@
 # LimbusCompany-IOS-Localization
 本文将介绍一种《边狱公司》（Limbus Company）iOS 的客户端汉化方案。   
-适用于不想使用**Q公司**、**K公司**、**O公司**等加速器产品，且有其他代理工具的人群 
+适用于不想使用**Q公司**、**K公司**、**O公司**等加速器产品，且有其他代理工具的人群   
 暂未完全汉化 进度（93.5%）
 ## 声明
 - **前提：有其他代理工具（如Shadowrocket、Surge等）**
@@ -40,7 +40,7 @@
 脚本:
     ```js
     $httpClient.get(
-    "github link WIP",
+    "https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/manifest.json",
     function(err, resp, data) {
 
         $done({
@@ -62,12 +62,12 @@
     脚本:
     ```js
     $httpClient.get(
-    "github link WIP",
+    "https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/localize_jp.zip",
     function(err, resp, data) {
 
         $done({
             status:200,
-            headers:{"Content-Type":"application/json"},
+            headers:{"Content-Type":"application/zip"},
             body:data
         });
 
