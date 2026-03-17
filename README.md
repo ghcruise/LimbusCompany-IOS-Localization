@@ -1,7 +1,7 @@
 # LimbusCompany-IOS-Localization
 本文将介绍一种《边狱公司》（Limbus Company）iOS 的客户端汉化方案。   
 适用于不想使用**Q公司**、**K公司**、**O公司**等加速器产品，且有其他代理工具的人群   
-暂未完全汉化 进度（93.5%）
+
 ## 声明
 - **前提：有其他代理工具（如Shadowrocket、Surge等）**
 - 汉化资源来自[LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 **CC BY-NC-SA 4.0 协议**   
@@ -93,7 +93,7 @@
 - 如果你觉得本项目对你有帮助，请帮忙点个 Star，这是对我最好的支持！
 - ~~还不是为了自己在手机上玩得舒服，顺手搞的~~
 - 对文本或其他方面有建议的可以在 Issue 中提出
-- ~~终于写完Readme了~~
+
 ## 致谢
 Original project:
 https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany
