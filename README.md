@@ -6,7 +6,7 @@
 - **前提：有其他代理工具（如Shadowrocket、Surge等）**
 - 汉化资源来自[LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 **CC BY-NC-SA 4.0 协议**   
 - 包含战斗气泡
-- 剧情故事中的人物名已汉化
+- 剧情故事中的人物名部分汉化
 - 本项目实现的是对游戏内日语替换，因此选择日语才可以看到汉化效果。同样地，可以参考下文 [详细原理](#原理简介) 实现对韩语或英语的替换，同样可以达到本项目的效果
 - 由于IOS端字库限制，本项目在尽可能保留原意的前提下对汉化资源中的部分文本进行了替换  
 [字符映射表（施工中）]()
