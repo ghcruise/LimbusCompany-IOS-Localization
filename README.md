@@ -19,76 +19,41 @@
 ## 使用方法 
 本文以Shadowrocket为例，其它代理工具请参照各自工具的使用方法  
 
-### CA证书安装
+### MitM配置 - CA证书安装
 1. 打开Shadowrocket，进入`配置`页面，点击当前使用的规则最右侧的`ⓘ`进入`conf页面`
 2. 进入`HTTPS解密`页面，启用`HTTPS解密`
 3. 在弹出的证书页面选择`生成新的CA证书`并确认
 4. 点击`安装证书`并允许下载描述文件
 5. 在设备的`设置`→`通用`→`VPN与设备管理`页面选择下载的描述文件并安装
 6. 在设备的`设置`→`通用`→`关于本机`→`证书信任设置`启用对安装证书的完全信任
-
+   
+---
 ### 代理软件配置
-**强烈建议自行下载release中的manifest.json和localize_jp.zip并起一个http服务器，并将以下脚本中的Link修改为下载链接**  
-1. 打开Shadowrocket，进入`配置`页面，点击当前使用的规则最右侧的`ⓘ`进入`conf页面`
-2. 进入`HTTPS解密`页面，确认启用`HTTPS解密`，在`域名`一栏添加
-    ```
-    *.limbuscompanycdn.org
-    ```
-3. 返回`conf页面`,进入`脚本`，点击`+`按钮添加如下脚本  
+**如果你安装了[Script-Hub模块](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85)，则可以点击下方链接一键导入**   
+  
+- [Shadowrocket模块](https://api.boxjs.app/shadowrocket/install?module=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue)  
+  
+- [Stash覆写](stash://install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
+  
+- [Surge模块](surge:///install-module?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dsurge-module%26del%3Dtrue%26jqEnabled%3Dtrue&name=)  
 
-- 脚本1:PatchInfo，用于manifest.json  
-类型:`http-response`  
-引擎:`auto`  
-脚本:
-    ```js
-    $httpClient.get(
-    "Link1",
-    function(err, resp, data) {
+- [Loon插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
+    
+**如果你没有安装Script-Hub模块，建议你安装一个。如果实在不想安装，请看下文**
+- Shadowrocket模块  
+复制 **[链接](https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/LimbusCompanyIOSLocalization.module)**，导入Shadowrocket模块中并启用
 
-        $done({
-            status:200,
-            headers:{"Content-Type":"application/json"},
-            body:data
-        });
+- Surge & Loon & Quantumult X  
+~~由于作者没有这些代理工具，所以也不会有这部分的内容~~  
+  
 
-    });
-    ```
-    表达式:
-    ```regex
-    ^https://downloadcommon\.limbuscompanycdn\.org/.*LocalizePatchInfo\.json$
-    ```
-    最大尺寸:`0`  
-    其他选项不修改 
-******
-
-- 脚本2:汉化资源包，用于localize_jp.zip  
-    脚本:
-    ```js
-    $httpClient.get(
-    "Link2",
-    function(err, resp, data) {
-
-        $done({
-            status:200,
-            headers:{"Content-Type":"application/zip"},
-            body:data
-        });
-
-    });
-    ```
-    表达式:
-    ```regex
-    localize_jp
-    ```
-    其他选项同脚本1
-
+---
 ### 启动游戏
 确认
 - 启用VPN
 - 启用上述配置
-- 启用上述脚本
 
-**进入游戏会提示下载约17Mb资源文件则说明汉化成功**
+**进入游戏会提示下载约20Mb资源文件则说明汉化成功**
 
 ## 最后
 - 如果你觉得本项目对你有帮助，请帮忙点个 Star，这是对我最好的支持！
