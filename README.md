@@ -33,9 +33,9 @@
   
 - [Shadowrocket模块](https://api.boxjs.app/shadowrocket/install?module=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue)  
   
-- [Stash覆写](stash://install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
+- [Stash覆写](https://api.boxjs.app/stash/install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
   
-- [Surge模块](surge:///install-module?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dsurge-module%26del%3Dtrue%26jqEnabled%3Dtrue&name=)  
+- [Surge模块](https://api.boxjs.app/surge/install-module?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dsurge-module%26del%3Dtrue%26jqEnabled%3Dtrue&name=)  
 
 - [Loon插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
     
