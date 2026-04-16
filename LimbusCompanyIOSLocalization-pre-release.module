@@ -1,0 +1,10 @@
+#!name=Pre-release:LimbusCompany IOS Localization
+#!desc=[Pre-release]边狱巴士ios汉化模块 by ghcruise
+
+[URL Rewrite]
+^https?://.*localize_jp.zip$ https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/download/v1.103.0-pre-release/localize_jp.zip 302
+
+^https://downloadcommon\.limbuscompanycdn\.org/.*LocalizePatchInfo\.json$ https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/download/v1.103.0-pre-release/manifest.json 302
+
+[MITM]
+hostname = *.limbuscompanycdn.org
