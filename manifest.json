@@ -4,7 +4,7 @@
     "EncryptIV": "xIqEV7684UYcMBOG6Gu5mA==",
     "Files": {
         "Assets/Resources_moved/Localize/jp/StoryData/JP_1D204B.json": {
-            "Hash": "38c112703e2ff80ba4b067b88d52f411",
+            "Hash": "cd54afd74f19be470308ab8f90e3f885",
             "Size": 9951,
             "Crc": 0
         },
@@ -449,7 +449,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S401B.json": {
-            "Hash": "1763fd2defcb2fc2a087331daba1975a",
+            "Hash": "69d131b078d6bd33ce22f09dd41fd176",
             "Size": 16645,
             "Crc": 0
         },
@@ -879,7 +879,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_3D301B.json": {
-            "Hash": "2c8ba2a0db26f805a78080856bca45b8",
+            "Hash": "2dc8c3ca32a087907df02a41402009c0",
             "Size": 23185,
             "Crc": 0
         },
@@ -979,8 +979,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs-twth.json": {
-            "Hash": "1a6fa2127d3ae3a8627ad60c5e3bcb7f",
-            "Size": 11039,
+            "Hash": "1a3fb1b90786b0dfa075cdef8cad989b",
+            "Size": 11223,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S318B.json": {
@@ -1134,7 +1134,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S808B.json": {
-            "Hash": "356a1b2ddb5b3e46d197ddb180ac26cd",
+            "Hash": "b390b85136990ad6050a2fb78079a5e2",
             "Size": 34020,
             "Crc": 0
         },
@@ -1709,8 +1709,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E909B.json": {
-            "Hash": "414c85940b5258a5af0d13ff8ff0ae06",
-            "Size": 22228,
+            "Hash": "da10d8cb412cc9c043aa72d63859e606",
+            "Size": 22115,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_ES011B.json": {
@@ -1974,8 +1974,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleUIText.json": {
-            "Hash": "2d9688540c98602b9b5f825d44b35aa6",
-            "Size": 23877,
+            "Hash": "4b2107e95fedb0a70eec65eade40d3fe",
+            "Size": 23841,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_ActionEvents-a1c5p2.json": {
@@ -2274,8 +2274,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_EGOgift_a1c8p2.json": {
-            "Hash": "9f68b0879fcdfa1fdffde4638f839f1f",
-            "Size": 13665,
+            "Hash": "f1451e42d081fba663fe4ac2c3d3bb88",
+            "Size": 13738,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Assist-a1c9p3.json": {
@@ -2424,8 +2424,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10812.json": {
-            "Hash": "a71505505b07b92bb324d8bff90ed8b8",
-            "Size": 22621,
+            "Hash": "e4b47047505e30673e4ab40828244e27",
+            "Size": 22624,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StageNode-a1c7p1.json": {
@@ -2629,8 +2629,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/BattleAnnouncerDlg/JP_Announcer_Sode_90003.json": {
-            "Hash": "7ec8886091041b86b98bdb42584dbf14",
-            "Size": 3626,
+            "Hash": "4cf36f83e2af8f8e8c37033aef8725d2",
+            "Size": 3638,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E705B.json": {
@@ -2694,7 +2694,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_PC04B.json": {
-            "Hash": "19f74afe8c345946cc89aaae8d3ceb94",
+            "Hash": "b5468ab0e64b3839b3d04c2eee719cb3",
             "Size": 29520,
             "Crc": 0
         },
@@ -2969,13 +2969,13 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Gregor_Blackwater_11212.json": {
-            "Hash": "76a1d07307d1aac64f438ddd74aeebb7",
-            "Size": 5501,
+            "Hash": "8379cf05cd5b22444f2da332bf4e5083",
+            "Size": 5510,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10913.json": {
-            "Hash": "27ef2b8184ce3c6a1ce241fd1a002437",
-            "Size": 16495,
+            "Hash": "8529118bc15d6346ffffa0779459a79a",
+            "Size": 16498,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_S209B.json": {
@@ -3124,8 +3124,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_StageNode91-3.json": {
-            "Hash": "2c0658abeec77aa6d48d0724cff8e3c9",
-            "Size": 3213,
+            "Hash": "6a46d8e0a5679133e2effe90676bfd30",
+            "Size": 3207,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/PersonalityVoiceDlg/KR_Voice_Ishmael_Ucorp_10807.json": {
@@ -3189,8 +3189,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_1D306A.json": {
-            "Hash": "5476ef6aa416de0b4a8e023a55551689",
-            "Size": 24086,
+            "Hash": "2136599f9a59e069149e7ae64c45e9aa",
+            "Size": 24089,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_LoginUIText.json": {
@@ -3889,8 +3889,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E911A.json": {
-            "Hash": "605c886a7b685037dbd8387e6e9ead1a",
-            "Size": 5346,
+            "Hash": "5fe3557afe77de86a514f3b9e0753ab0",
+            "Size": 5355,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_Passives_Abnormality-mowe-re.json": {
@@ -4089,8 +4089,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E728B.json": {
-            "Hash": "1849a09860d1455eaa6aa425d2ed3c4d",
-            "Size": 32955,
+            "Hash": "7af0b42145d637c71639c0d2e66978a2",
+            "Size": 32976,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_TutorialDesc0-4.json": {
@@ -4219,8 +4219,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_PC07B.json": {
-            "Hash": "d0175d9660a1de4025e0f128ba3e15c3",
-            "Size": 33839,
+            "Hash": "d5f52e803af393277edcf36a863dc2d3",
+            "Size": 33842,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_S944I1.json": {
@@ -4384,8 +4384,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleKeywords-walpu5.json": {
-            "Hash": "74fe82ee0daf80ba4674a7ac99b93a26",
-            "Size": 2848,
+            "Hash": "3aedcdad5f973e773707cc9515904910",
+            "Size": 2912,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Assist.json": {
@@ -4624,8 +4624,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleKeywords.json": {
-            "Hash": "0297ecad8b2c78da99a60719e167406b",
-            "Size": 235007,
+            "Hash": "f030d3cb8afe8208fd5fbe4977c9f54e",
+            "Size": 235807,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_Passives_fools.json": {
@@ -4684,7 +4684,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_StoryTheaterMain.json": {
-            "Hash": "0b0bbea7b8eb5173c3fff9b03dc17bee",
+            "Hash": "d53d330711904b1bbc499cdeba2b6022",
             "Size": 3688,
             "Crc": 0
         },
@@ -4889,8 +4889,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Enemy-a1c5p3.json": {
-            "Hash": "60f5f986c3cafc26acda6bd104e9c483",
-            "Size": 12718,
+            "Hash": "cae63e99af92e54966dfb93a98ed2ce0",
+            "Size": 12782,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StoryTheaterDanteNote_11.json": {
@@ -5049,7 +5049,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Yisang_Starb_10107.json": {
-            "Hash": "7708198e379638e1f1e682a6ca1a19c5",
+            "Hash": "bf45c933125b940327da6892f43b8c5b",
             "Size": 4848,
             "Crc": 0
         },
@@ -5329,8 +5329,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Ego_Personality-08.json": {
-            "Hash": "cc93f0ae43f873fe6ce6ca43dd06d4ff",
-            "Size": 76276,
+            "Hash": "5aacfb04a7619b3c32a794fe440763fc",
+            "Size": 76372,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S507B.json": {
@@ -5504,8 +5504,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S926B.json": {
-            "Hash": "27559aeac4c8d0618bcda05000b7bba9",
-            "Size": 17725,
+            "Hash": "67a36166127dca62924df66dce26b0f5",
+            "Size": 17728,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StoryTheaterUIText.json": {
@@ -5689,7 +5689,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S107B.json": {
-            "Hash": "922bda1153165da733bf8bf5a2b3126b",
+            "Hash": "7a18ff96c61c90697c827b6addbf4b4c",
             "Size": 8096,
             "Crc": 0
         },
@@ -5749,8 +5749,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_7D111A.json": {
-            "Hash": "690d5c59c6a803d646cabef770ef90e1",
-            "Size": 29788,
+            "Hash": "5a394de5b93c66233697f13017b952da",
+            "Size": 29794,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_E706B.json": {
@@ -5884,8 +5884,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_TutorialMainUIText.json": {
-            "Hash": "ec10d59cc94572c7857881fdb2cf4c2e",
-            "Size": 208505,
+            "Hash": "200182a730a03895e4d8c5fa0294d173",
+            "Size": 208062,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_StageNode1-4.json": {
@@ -6729,7 +6729,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_8D106B.json": {
-            "Hash": "3be757a3070db3b6462d9dbf682793a7",
+            "Hash": "0c96c323d70efbb3c0a50003261f740d",
             "Size": 8297,
             "Crc": 0
         },
@@ -7199,8 +7199,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BossRaidUI.json": {
-            "Hash": "0a47ee3f1742b7c1713887f3c82f582a",
-            "Size": 10371,
+            "Hash": "727876620a6bd0d43a192c1a3be6f53b",
+            "Size": 10825,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Sinclair_Ncorp_11005.json": {
@@ -7219,7 +7219,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_StoryTheaterDanteNoteDetail_11.json": {
-            "Hash": "b8856116a9d14ac936117e366de985c6",
+            "Hash": "e279dd449615b0d84ca72cd4cc40b857",
             "Size": 11045,
             "Crc": 0
         },
@@ -7304,7 +7304,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_AbnormalityGuides.json": {
-            "Hash": "358805c2b2ab4600ba583536c5cd93ea",
+            "Hash": "5b7d443b9120588a139eb8a9dc549235",
             "Size": 242249,
             "Crc": 0
         },
@@ -7319,8 +7319,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E910A.json": {
-            "Hash": "056522011cd2f2878ef4314f95be536a",
-            "Size": 3410,
+            "Hash": "8a1ff0f2d3d8c1ecd04d13d4ae39306b",
+            "Size": 3416,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_PanicInfo-mowe.json": {
@@ -7379,7 +7379,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Heathcliff_LCB_10701.json": {
-            "Hash": "a06faa84bdcee8ac30286402ac56b69e",
+            "Hash": "d572bef65ee3c3a3b2417ae616508894",
             "Size": 3856,
             "Crc": 0
         },
@@ -7429,7 +7429,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S002B.json": {
-            "Hash": "c429af0b2e10946b29f274f67bb121a5",
+            "Hash": "c6e37ed89c235d5e2c5db90f8ebf1520",
             "Size": 40925,
             "Crc": 0
         },
@@ -7569,8 +7569,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Enemy-a1c8p3.json": {
-            "Hash": "25835ac2a135c86e9036aab1c76949ab",
-            "Size": 2180,
+            "Hash": "2719aaa32793173559358a6dfd4859f0",
+            "Size": 2212,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_BattlePass-a1c8.json": {
@@ -7804,8 +7804,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives.json": {
-            "Hash": "be4a5a2231e5bccb47e1ece138c3b0f1",
-            "Size": 315170,
+            "Hash": "1edf884c62958f29ab1b1dd4b60745ba",
+            "Size": 315276,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_ES180B.json": {
@@ -7964,7 +7964,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Rodion_Tcorp_10909.json": {
-            "Hash": "709e100feb73e29bb81392c3b79e6fb6",
+            "Hash": "5929d297b12b6de928c7134c408efadc",
             "Size": 5718,
             "Crc": 0
         },
@@ -9119,7 +9119,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S817A.json": {
-            "Hash": "376e5b1daae26ac9e17d13b2a51bb53c",
+            "Hash": "1a5dfed07644ab302c37534c93377444",
             "Size": 4289,
             "Crc": 0
         },
@@ -9249,7 +9249,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/BattleAnnouncerDlg/JP_Announcer_Samjo_15.json": {
-            "Hash": "57d82103382d7e3bb7d1d17ed0b92d1e",
+            "Hash": "81dd4442f0ff31375bd4f550f99b497d",
             "Size": 6151,
             "Crc": 0
         },
@@ -9324,8 +9324,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-a1c951.json": {
-            "Hash": "07f2ee672e4c2704973b68813b5b0849",
-            "Size": 7045,
+            "Hash": "09fd616c6a38ef9f39bbcd0bc2e283ff",
+            "Size": 7109,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_EGOgift_MirrorDungeon-EventTheme.json": {
@@ -9639,8 +9639,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs-a1c5p3.json": {
-            "Hash": "16d008402aa09a2b757154d81d5f0ef6",
-            "Size": 7681,
+            "Hash": "8b2e5d285887c19c708ddc3fe294e2ee",
+            "Size": 7713,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/PersonalityVoiceDlg/KR_Voice_Ryoshu_LCCB_10406.json": {
@@ -9689,8 +9689,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleKeywords_Refraction4.json": {
-            "Hash": "f394d7ca580de537d0c910c838cd2152",
-            "Size": 6357,
+            "Hash": "623dfdc8abd42db163b2fa134eaef686",
+            "Size": 6389,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_Bufs_Mirror7.json": {
@@ -9834,8 +9834,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_5D202B.json": {
-            "Hash": "c9c7da31f59f89b5b386be51345c569f",
-            "Size": 4514,
+            "Hash": "1a47828736a4717e4024fc7716797dea",
+            "Size": 4517,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_ES012A.json": {
@@ -10174,8 +10174,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_5D103B.json": {
-            "Hash": "70c1c86c551df3a26a409666dd098670",
-            "Size": 15025,
+            "Hash": "ad911676355e19d6c25491a1a4e61533",
+            "Size": 15028,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_MirrorDungeonUI_7.json": {
@@ -10399,7 +10399,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_AbDlg_Gregor.json": {
-            "Hash": "2b4295810435f05371ad331c42978c3f",
+            "Hash": "585533afbbb2564349da0d74f9c675cf",
             "Size": 4328,
             "Crc": 0
         },
@@ -10564,13 +10564,13 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Ishmael_ShiAsso5_10803.json": {
-            "Hash": "ca8dc299b949f7a3bf2b13d13de5b78c",
-            "Size": 4409,
+            "Hash": "06e1860e9d6dfaf345840b2eb81de698",
+            "Size": 4406,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_StoryTheaterDanteNoteDetail_12.json": {
-            "Hash": "175132dc4b0287a427218ead304b9844",
-            "Size": 7480,
+            "Hash": "adb2901583567571927462da2a4426fd",
+            "Size": 7516,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E505A.json": {
@@ -10694,8 +10694,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Ishmael_Ucorp_10807.json": {
-            "Hash": "5d718fad2ae5cc6e426589099900c14b",
-            "Size": 4848,
+            "Hash": "e77add64cd593113fb66bae33e22dadd",
+            "Size": 4851,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_Skills_Enemy-twth.json": {
@@ -11159,7 +11159,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E620B.json": {
-            "Hash": "6998ccbcdc106e3662dc90ce73398640",
+            "Hash": "6322126de7fd512f0ad2d7e24883a6aa",
             "Size": 26325,
             "Crc": 0
         },
@@ -11329,8 +11329,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E907B.json": {
-            "Hash": "f02e226ac798ea4b05b28a4b088a6dff",
-            "Size": 59787,
+            "Hash": "22de1b16919cde22341639d95f48c3a1",
+            "Size": 59899,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StoryTheaterDanteNote_8.json": {
@@ -11489,8 +11489,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_personality-08.json": {
-            "Hash": "86cc66fd1f742db7aa1e2f22001c8a05",
-            "Size": 131046,
+            "Hash": "f3015edb6be1b1b73f33fd7c75bc2b65",
+            "Size": 131302,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EGOVoiceDig/EN_Voice_EGO_Heathcliff_7.json": {
@@ -11629,7 +11629,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P11015.json": {
-            "Hash": "107f0e0d7239f64381bbe0ae188e7692",
+            "Hash": "fd428f9c919f2decd9409d1ed925e8f3",
             "Size": 11060,
             "Crc": 0
         },
@@ -12199,8 +12199,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Enemy-a1c5p1.json": {
-            "Hash": "d224d39977e79308ae979cd114c51bac",
-            "Size": 4065,
+            "Hash": "60a34796bbff1984645d9f56ee8879c1",
+            "Size": 4097,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E020X.json": {
@@ -12439,7 +12439,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E080X.json": {
-            "Hash": "ae89b23e1abf7bd46dcfffc34b7991be",
+            "Hash": "480bae311325f8def12c85043b283139",
             "Size": 28814,
             "Crc": 0
         },
@@ -12544,7 +12544,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/BattleAnnouncerDlg/JP_Announcer_Kira_46.json": {
-            "Hash": "d2a2c053eab138d77c0d410afded1105",
+            "Hash": "c46c0c719846564449075eefaa7ba42b",
             "Size": 7598,
             "Crc": 0
         },
@@ -12779,7 +12779,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10915.json": {
-            "Hash": "c0b58a7a31ef8de7e7f18e61b1c10d86",
+            "Hash": "60d11485244c12735da3f6b51c23858f",
             "Size": 24464,
             "Crc": 0
         },
@@ -12964,8 +12964,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Ryoshu_Spider_10410.json": {
-            "Hash": "1537df1b959f42e4b9140c3900af7371",
-            "Size": 5451,
+            "Hash": "d711dd8bd523f1b4d2e9d552c2ae9ad3",
+            "Size": 5454,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_S538B.json": {
@@ -13504,8 +13504,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S206B.json": {
-            "Hash": "aabe2c8b17a9bc2ad8143f16d816f8c3",
-            "Size": 6459,
+            "Hash": "7fa73d6080f12da7d9beaad9588e478d",
+            "Size": 6480,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_P10515.json": {
@@ -13589,8 +13589,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S821B.json": {
-            "Hash": "321dfdf97733d8f2cdd0d84d67914072",
-            "Size": 44427,
+            "Hash": "9bee59d44b1a27bfd89829886873033d",
+            "Size": 44442,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E509B.json": {
@@ -13669,8 +13669,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Honglu_Kongkong_10603.json": {
-            "Hash": "27a88cfb86504bade90357774b7d14e3",
-            "Size": 4529,
+            "Hash": "07baabb046f761436c86c9a9920520cf",
+            "Size": 4523,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_DungeonStartBuffs.json": {
@@ -13859,8 +13859,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BuffAbilities.json": {
-            "Hash": "1fb1a007702c62488cf9789015e1bfab",
-            "Size": 19023,
+            "Hash": "a7bcc76e372b029d0a75803ae2dac787",
+            "Size": 19041,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E623A.json": {
@@ -14384,8 +14384,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E908B.json": {
-            "Hash": "39651ddba3ed934144ec26ab33a7bd34",
-            "Size": 49915,
+            "Hash": "9289c831cca1f808f9d8c1793573e755",
+            "Size": 49774,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_P10608.json": {
@@ -15079,8 +15079,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_UnlockCode-1.json": {
-            "Hash": "a77ee6318e8a190cab973abf9880a5a8",
-            "Size": 3425,
+            "Hash": "8affa26422d37ce5a3d21b193cbcc6f6",
+            "Size": 3537,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E711I.json": {
@@ -15359,8 +15359,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs_Refraction4.json": {
-            "Hash": "da4540a03770614f455f56b49b69e525",
-            "Size": 7995,
+            "Hash": "742b56e73d4978545ecd0f4c45af645b",
+            "Size": 8027,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_3D308B.json": {
@@ -15424,7 +15424,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Ryoshu_LCCB_10406.json": {
-            "Hash": "7ca08f7b12cf372c6a031d55ed9d4d57",
+            "Hash": "6bdf3addb6d18b4f65431c0e8c7ebc6e",
             "Size": 5029,
             "Crc": 0
         },
@@ -15664,8 +15664,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality91-5-hard.json": {
-            "Hash": "dac05f1f900c00bf38a23cc6a900fddd",
-            "Size": 3102,
+            "Hash": "3b6caa040f2b20a2e470b6d32f93fb77",
+            "Size": 3134,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_MirrorDungeonUI_5.json": {
@@ -15799,8 +15799,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_PanicInfo-twth.json": {
-            "Hash": "8d8de8e757d234e252d684566afc69af",
-            "Size": 799,
+            "Hash": "2c37db3a825af5fca5f5cc7cb06b38e1",
+            "Size": 951,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_ActionEvents-walpu8.json": {
@@ -15894,8 +15894,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-a1c9115.json": {
-            "Hash": "dacd6c9386c237c8fd95b5cc8a8e8d69",
-            "Size": 11666,
+            "Hash": "a028a6f93337266aa85e157f732cedc5",
+            "Size": 11698,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_4D106B.json": {
@@ -16384,8 +16384,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E703B.json": {
-            "Hash": "6494a05d885f5d4da036788395e11c1f",
-            "Size": 17068,
+            "Hash": "af38c05fceb0e4a567638f3301ecee78",
+            "Size": 17071,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_PC02B.json": {
@@ -16414,8 +16414,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E913B.json": {
-            "Hash": "84b05f780afeab5b8bbb24514fd5b204",
-            "Size": 18355,
+            "Hash": "0a6b7061613b6b325168a89ac502a843",
+            "Size": 18367,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_P10307.json": {
@@ -16534,8 +16534,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_StoryTheaterOther.json": {
-            "Hash": "d2fb04b86e8ef07264caa8c4b14e9c02",
-            "Size": 4285,
+            "Hash": "9ebbb1c460689bd4996eca25f0619152",
+            "Size": 4279,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10515.json": {
@@ -16584,8 +16584,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality_Mirror6.json": {
-            "Hash": "ac8f5fd58b80b2381ce126558bb350b9",
-            "Size": 78183,
+            "Hash": "7231b3437488d57dc30c7c346085b28c",
+            "Size": 78215,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_Skills_personality-10.json": {
@@ -16664,8 +16664,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-a1c5p3.json": {
-            "Hash": "45ebc12b0089f86216727e056a803078",
-            "Size": 85975,
+            "Hash": "8ea4ff20a1b34c2ecf0dfdaa7b0b5aec",
+            "Size": 86103,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_PC14A.json": {
@@ -17049,7 +17049,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E903A.json": {
-            "Hash": "7e0f1d4325ec5830f25b37788cada202",
+            "Hash": "92bd4fc790eb06b393f0c4fe0ecc75e3",
             "Size": 11892,
             "Crc": 0
         },
@@ -17309,8 +17309,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Abnormality-twth.json": {
-            "Hash": "dc796c6bf39441a038826baacf1321b5",
-            "Size": 15645,
+            "Hash": "9b424138b4b638ea97bb6bf917440437",
+            "Size": 15149,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E602A.json": {
@@ -17479,7 +17479,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_ES040A.json": {
-            "Hash": "638396e7a8840f81c1e8d3b089ddaa98",
+            "Hash": "d2556b4e2843b9140ecf6dcef6e900df",
             "Size": 5713,
             "Crc": 0
         },
@@ -17534,7 +17534,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E902B.json": {
-            "Hash": "c4f43c2b8e0dc9968585a7c4c2ad8933",
+            "Hash": "4b272615503496aafdf1a2053c851b07",
             "Size": 23299,
             "Crc": 0
         },
@@ -17739,7 +17739,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_MirrorDungeonRentalName.json": {
-            "Hash": "621069fac8c6205b256affd4065854a9",
+            "Hash": "016192ddc5464a6cb6403364fd97dc77",
             "Size": 1911,
             "Crc": 0
         },
@@ -17764,7 +17764,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/BattleAnnouncerDlg/JP_Announcer_Dawn_19.json": {
-            "Hash": "033f99ecfda0f37fc1fc90b81f4c75b6",
+            "Hash": "2918cbb0d1eaf64900f2091f3071931e",
             "Size": 6140,
             "Crc": 0
         },
@@ -17924,7 +17924,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleSpeechBubbleDlg-a1c9p3.json": {
-            "Hash": "6068f64a70ba03b815e6784f6c24a4db",
+            "Hash": "b084cae8794352b48aa7e303228e5c02",
             "Size": 56969,
             "Crc": 0
         },
@@ -18419,8 +18419,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Gregor_Hook_11207.json": {
-            "Hash": "23945171adff444b797e77b46e4b5b87",
-            "Size": 4975,
+            "Hash": "f42dc0020275b23ed706eaf1c62e5389",
+            "Size": 4978,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_1D101A.json": {
@@ -18599,7 +18599,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Honglu_Kcorp_10605.json": {
-            "Hash": "87bd58f1c793e4b5d9202a7e26d7680a",
+            "Hash": "e3074a05154eb90b4884a966c064980e",
             "Size": 4814,
             "Crc": 0
         },
@@ -18714,7 +18714,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Rodion_Rings_10915.json": {
-            "Hash": "0e30d5a31a3b0bc5d7b455f9f3359f35",
+            "Hash": "ebeda01f9c89266269c73c6885c40d06",
             "Size": 6944,
             "Crc": 0
         },
@@ -18874,7 +18874,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Outis_Molar_11105.json": {
-            "Hash": "9baf6bf1472c61e6e4f11f3752643459",
+            "Hash": "2171c9ce97af84bff8ba58ffe2070c9e",
             "Size": 4731,
             "Crc": 0
         },
@@ -19074,8 +19074,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-a1c8p3.json": {
-            "Hash": "329a78d1dce50e73287ea4e4eeeb011a",
-            "Size": 80002,
+            "Hash": "b74c18140b9c76c9ebe46143fce73a6f",
+            "Size": 80066,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-a1c5p2.json": {
@@ -19119,7 +19119,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S947B.json": {
-            "Hash": "3c9736c9473a014332e0b34a344fd397",
+            "Hash": "7867581609b0eeb69164818f4933430d",
             "Size": 82656,
             "Crc": 0
         },
@@ -19599,7 +19599,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S308B.json": {
-            "Hash": "ad6b88437a566cd59153450041f21e72",
+            "Hash": "8e5d7a68bf6c8f404bc3a0b9d3941834",
             "Size": 19531,
             "Crc": 0
         },
@@ -19624,8 +19624,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Gregor_LiuAsso6_11202.json": {
-            "Hash": "5a482d1201a4df95f054455774a8b98e",
-            "Size": 4612,
+            "Hash": "f63a37c6dd11132d3a4463853034fddd",
+            "Size": 4615,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_RailwayDungeonStationName3.json": {
@@ -19669,8 +19669,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S611B.json": {
-            "Hash": "9f7a7d3d5e98bdc598423547df811558",
-            "Size": 31578,
+            "Hash": "5a2d139e24ffd019ff8a8e14ccf712dc",
+            "Size": 31587,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EGOVoiceDig/EN_Voice_EGO_YiSang_1.json": {
@@ -19864,13 +19864,13 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_5D101B.json": {
-            "Hash": "6e10405bd225147de517f628780e8bd8",
-            "Size": 11342,
+            "Hash": "1afd5afd65fdaa29196fe4836ed635dd",
+            "Size": 11345,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S720B.json": {
-            "Hash": "0eb9c095c5b2b0b18b819b3afb7d3df1",
-            "Size": 17491,
+            "Hash": "105f769dec7cd41bd49b68f522d963c1",
+            "Size": 17500,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_S504B.json": {
@@ -19894,8 +19894,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E912B.json": {
-            "Hash": "4d372bffac7d5db7e1cb49bd69df16bd",
-            "Size": 39784,
+            "Hash": "2f3b706e9ca31fa817944a33b1b6e16d",
+            "Size": 39735,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E627B.json": {
@@ -20014,8 +20014,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Abnormality_Refraction5.json": {
-            "Hash": "59cedd06e0530b5737d552c7a970145a",
-            "Size": 9328,
+            "Hash": "6e7f7c57482c4c89c2bf9ccb3c9f86d1",
+            "Size": 9366,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_E903A.json": {
@@ -20129,8 +20129,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S402B.json": {
-            "Hash": "97b0abeeb169a65f204fd75ec670ad51",
-            "Size": 25792,
+            "Hash": "613ac2990e19fa4adeaa2e5ad419d96a",
+            "Size": 25795,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleSpeechBubbleDlg-twth.json": {
@@ -20204,8 +20204,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs.json": {
-            "Hash": "dcfc965e793fc0d95959f31889a607f2",
-            "Size": 272148,
+            "Hash": "dc89aa191fd8f9bf882c32c2171ca973",
+            "Size": 272948,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S729B.json": {
@@ -20339,7 +20339,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S707B.json": {
-            "Hash": "44f90a9d1727e07e9b3480a62764d934",
+            "Hash": "e3b294cd5ce62ff7473ab050d6e98f35",
             "Size": 20267,
             "Crc": 0
         },
@@ -20479,7 +20479,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S622B.json": {
-            "Hash": "d494f9dd0ef15f0d29ba87f4c0d6c0b9",
+            "Hash": "5f54e366b077c542eda644bfbbe16ac8",
             "Size": 6029,
             "Crc": 0
         },
@@ -20509,8 +20509,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E910B.json": {
-            "Hash": "35a325cdea8fb362d1c878e5a4fcaed8",
-            "Size": 25309,
+            "Hash": "40ebf125513831bb96a0028e37c272fb",
+            "Size": 25306,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P11103.json": {
@@ -20784,7 +20784,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S447B.json": {
-            "Hash": "4fa85279ea4bab988c29b893c05a1838",
+            "Hash": "111859a7a80376293e2c4969658e0191",
             "Size": 25056,
             "Crc": 0
         },
@@ -20944,8 +20944,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleKeywords-twth.json": {
-            "Hash": "1a6fa2127d3ae3a8627ad60c5e3bcb7f",
-            "Size": 11039,
+            "Hash": "1a3fb1b90786b0dfa075cdef8cad989b",
+            "Size": 11223,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_3D303B.json": {
@@ -21174,7 +21174,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S937B.json": {
-            "Hash": "a0c2f0fe2024b79fb8118e6364421af8",
+            "Hash": "3eaa1bd11d4139ec725913ef14327e2c",
             "Size": 17581,
             "Crc": 0
         },
@@ -21484,8 +21484,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E905B.json": {
-            "Hash": "eb417dfb9eee29143db2cf9593ae5718",
-            "Size": 12139,
+            "Hash": "d75fafad7bbfcadb7bbc8e3b4cc9af88",
+            "Size": 12142,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs-a1c9p1.json": {
@@ -21644,7 +21644,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S619A.json": {
-            "Hash": "aff1889c519aeb21b00206135a80c0b0",
+            "Hash": "42db5138f2117f53460ed56c33bebe34",
             "Size": 20505,
             "Crc": 0
         },
@@ -21734,8 +21734,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_PanicInfo-walpu5.json": {
-            "Hash": "ae2f3e5e77abf6f6fc006e2a539cfe94",
-            "Size": 632,
+            "Hash": "7fe4d08de48b6a80920cc7f353f4fb9e",
+            "Size": 650,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_Items-a1c9p1.json": {
@@ -21744,8 +21744,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Bufs-walpu5.json": {
-            "Hash": "74fe82ee0daf80ba4674a7ac99b93a26",
-            "Size": 2848,
+            "Hash": "3aedcdad5f973e773707cc9515904910",
+            "Size": 2912,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_P10411.json": {
@@ -21989,7 +21989,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S907B.json": {
-            "Hash": "647302759838f1d9041c39992d24d3dc",
+            "Hash": "0b4e13fb450ad307e39b7c41b343fc0c",
             "Size": 36916,
             "Crc": 0
         },
@@ -22084,8 +22084,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_8D103B.json": {
-            "Hash": "db106c1dac0fc5b4244fd65029f6a32b",
-            "Size": 3594,
+            "Hash": "37e1629886e8d61949dd9e9f3cbf2531",
+            "Size": 3597,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_StoryTheaterDanteNote_12.json": {
@@ -22199,7 +22199,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Meursault_Rings_10515.json": {
-            "Hash": "7ccd1e972d0018448876d1e5a408a39e",
+            "Hash": "3c96546c5770eb83381d8e69d768c97d",
             "Size": 6676,
             "Crc": 0
         },
@@ -22399,8 +22399,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S943B.json": {
-            "Hash": "9f6fe009c65a96a81f5ddedffe93ea73",
-            "Size": 42199,
+            "Hash": "25162f03fd5922acbb218f96f6737c72",
+            "Size": 42202,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_S937I2.json": {
@@ -23274,8 +23274,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S736B.json": {
-            "Hash": "7d772378eacd9fb0781f844408ff75fb",
-            "Size": 47623,
+            "Hash": "cc3f33e452ea0e20093e0a4d674f8bc8",
+            "Size": 47620,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StageNode91-4.json": {
@@ -24399,12 +24399,12 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Honglu_Dieci_10608.json": {
-            "Hash": "f257494a992fb85a6a273ed18d95acae",
+            "Hash": "b515872da8be359272da5a7491f5e0eb",
             "Size": 4806,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S616B.json": {
-            "Hash": "8f7f302c08b9f115519580929ab97b2e",
+            "Hash": "ddfd153ab8f4af68af6fe6af1e2e338d",
             "Size": 13211,
             "Crc": 0
         },
@@ -24534,8 +24534,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E906B.json": {
-            "Hash": "b0568b9a36d2e3b33bc267cbc1887d1c",
-            "Size": 37736,
+            "Hash": "dd007e4b24ab9113b0d421586a0d6f44",
+            "Size": 37745,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_AbEventsResultLog.json": {
@@ -24704,7 +24704,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_1D104B.json": {
-            "Hash": "538855efeb59582d79643aee833ec8e3",
+            "Hash": "d2a0a69da8086a689cc1e5304c651057",
             "Size": 3894,
             "Crc": 0
         },
@@ -24869,8 +24869,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_8D104A.json": {
-            "Hash": "0cbbf6da4198db9ce9ae5d6be9c31107",
-            "Size": 28858,
+            "Hash": "7c31f9b0e7e7ee4899fb8b47ad2ba502",
+            "Size": 28867,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_UserTicket-R.json": {
@@ -24949,7 +24949,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E904B.json": {
-            "Hash": "0b62e5cf75a14de3bd76eef6575c604d",
+            "Hash": "a9cfa47f39afd7218b50f8485ba574ec",
             "Size": 41860,
             "Crc": 0
         },
@@ -25099,8 +25099,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_AbEventsResultLog.json": {
-            "Hash": "60d1e0ddabeca751cf5cf666614bc0cb",
-            "Size": 22726,
+            "Hash": "1e0426885aaac638bd79fc18b0b5a374",
+            "Size": 22725,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/PersonalityVoiceDlg/EN_Voice_Faust_Blackwater_10212.json": {
@@ -25479,8 +25479,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Rodion_Kurokumo_10902.json": {
-            "Hash": "74885792f2123fa9aff7316b50de0717",
-            "Size": 4755,
+            "Hash": "5602109dff4420f110a6847f42b69eec",
+            "Size": 4752,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Passives_Assist-twth.json": {
@@ -25509,7 +25509,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S923B.json": {
-            "Hash": "a24a6a211ab98203d1cd56539f4b8529",
+            "Hash": "2c22db355572e1f7bc2c7a7e2e365baa",
             "Size": 18842,
             "Crc": 0
         },
@@ -25724,8 +25724,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Ego_Personality-04.json": {
-            "Hash": "7a4df7b7c24cb26546a1a84d88b012b4",
-            "Size": 54287,
+            "Hash": "f385860daef9fe9979b2a944200404e7",
+            "Size": 54319,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_P10403.json": {
@@ -25749,8 +25749,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Enemy-a1c951.json": {
-            "Hash": "a7f3cf5276c4a4569fed6e878d76cb3d",
-            "Size": 15084,
+            "Hash": "56ef0d1a3819d1feb9b781a76c770210",
+            "Size": 15244,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10608.json": {
@@ -25874,8 +25874,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_5D106B.json": {
-            "Hash": "282bba59d225f4a5280fea92470c9008",
-            "Size": 32196,
+            "Hash": "f0af2c9c4aef9f5ad948cb1af43f3f2d",
+            "Size": 32199,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_StageNode91-5.json": {
@@ -25924,7 +25924,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_AbnormalityGuides_Refraction2.json": {
-            "Hash": "ce495e2af6a3e3f419eb7e265391e9a9",
+            "Hash": "0fcaeacbfe0564948b1cae2f71395f53",
             "Size": 31937,
             "Crc": 0
         },
@@ -26359,8 +26359,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_ES050B.json": {
-            "Hash": "33f8375101114783bbd4afb27384f23b",
-            "Size": 14330,
+            "Hash": "63df56fe0521160aa774da02b23463fc",
+            "Size": 14333,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_Skills_Enemy-cultivation.json": {
@@ -26654,8 +26654,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_personality-07.json": {
-            "Hash": "51e5aca5428c2934e13c0ce5c2745340",
-            "Size": 144689,
+            "Hash": "724bf97f84b3a9ebc95bf4b149248949",
+            "Size": 144785,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_UnitKeyword-a1c9p1.json": {
@@ -26714,8 +26714,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Items.json": {
-            "Hash": "b1fc0b04f9bd93006382ff0960bc106c",
-            "Size": 39043,
+            "Hash": "511ac8b87f421daa11215762047a7ddb",
+            "Size": 39388,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_StageNode91-6.json": {
@@ -26944,8 +26944,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_personality-02.json": {
-            "Hash": "e2f4a47ed7b8433d293bd7a8934eda68",
-            "Size": 174900,
+            "Hash": "64a8cf55c410d731173dc3c89afbb04c",
+            "Size": 174964,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/PersonalityVoiceDlg/KR_Voice_Faust_ShiAsso2_10213.json": {
@@ -27049,7 +27049,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S001B.json": {
-            "Hash": "35563110f7356aeff6d4dd898b23c799",
+            "Hash": "b1bbab5556bc01fac6a5022ac8ac4017",
             "Size": 20001,
             "Crc": 0
         },
@@ -27089,8 +27089,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_BattleKeywords-a1c5p3.json": {
-            "Hash": "264fca6c5e7b437c69b81688c6a0b21c",
-            "Size": 7493,
+            "Hash": "4d31dfc1a9617ad00ca24ded0af19359",
+            "Size": 7525,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_5D108B.json": {
@@ -27174,8 +27174,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_PC01B.json": {
-            "Hash": "a17d74c299091f64e00bac399d007f78",
-            "Size": 35784,
+            "Hash": "f39e3f7a35cc12af805751ccf99fe2b9",
+            "Size": 35790,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_P11003.json": {
@@ -27264,8 +27264,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_E914B.json": {
-            "Hash": "4ffa957b9c80d08f9a9c24c8dbd5b01b",
-            "Size": 34886,
+            "Hash": "132912c39fd6bb8001f362a82683a63f",
+            "Size": 34937,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_4D106B.json": {
@@ -27584,8 +27584,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Rodion_Epi_10903.json": {
-            "Hash": "468c088e4a2e32231766f4a2cda1e5c0",
-            "Size": 4604,
+            "Hash": "4d26dd41d26a251c1bbbb594cd575877",
+            "Size": 4610,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_DanteAbilityUIText.json": {
@@ -27734,8 +27734,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S723B.json": {
-            "Hash": "56df825a1325d405f82fee83b061707a",
-            "Size": 15446,
+            "Hash": "a2e71ea3ab6f5f777e4aaaec5760cb71",
+            "Size": 15449,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_S303B.json": {
@@ -27749,8 +27749,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Gregor_LCB_11201.json": {
-            "Hash": "1e68844884e6d4f5ac51b76445e93a0f",
-            "Size": 4468,
+            "Hash": "d343bb0eadc8f369ef5353ff585ecbed",
+            "Size": 4471,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/StoryData/EN_PC13B.json": {
@@ -27979,8 +27979,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_MainUIText.json": {
-            "Hash": "cf94ffce763e06d5c52ebedd03a17fb8",
-            "Size": 63289,
+            "Hash": "3b05bed17fea4f2ad6311da859cd31e3",
+            "Size": 63265,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S930B.json": {
@@ -28069,7 +28069,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Heathcliff_Seven_10706.json": {
-            "Hash": "4a0174c290d96dc223e725d4ace0c5b1",
+            "Hash": "43b4b8b8b1fdf7bb3e56f990ca817312",
             "Size": 5048,
             "Crc": 0
         },
@@ -28519,7 +28519,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Ryoshu_LEGO_10412.json": {
-            "Hash": "a41312a34cbf273ef28de3428f92742e",
+            "Hash": "e34017a55ab7709a0ff3a656598a30fe",
             "Size": 5866,
             "Crc": 0
         },
@@ -28724,8 +28724,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_MainUIText-a1c7p1.json": {
-            "Hash": "893f7d71298ce3b1501a0a36bc9ccc14",
-            "Size": 1329,
+            "Hash": "1df3e013179d202f4bf768240c44c0a0",
+            "Size": 1376,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/en/EN_Skills_Abnormality-a1c8p2.json": {
@@ -28784,7 +28784,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_S922B.json": {
-            "Hash": "248676a6cb30ed2c83aa6d9d20beba13",
+            "Hash": "5ce435353e0a160fce33beedcc151e5b",
             "Size": 26280,
             "Crc": 0
         },
@@ -28869,8 +28869,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-ycgd.json": {
-            "Hash": "d0d3b8a7c0f2f4ea21032a4aa715567a",
-            "Size": 20944,
+            "Hash": "8fc81387959cf4100db4910a66e2c107",
+            "Size": 21008,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10811.json": {
@@ -28879,8 +28879,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10914.json": {
-            "Hash": "1a767a66ee83e6b0de595add876d515d",
-            "Size": 31824,
+            "Hash": "a8139d4784373ebda8ac5e34f8ffc561",
+            "Size": 31833,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/StoryData/KR_E616B.json": {
@@ -29029,7 +29029,7 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Honglu_KumoRings_10614.json": {
-            "Hash": "c64969e57d20152ec3a8b1a74c3d48b0",
+            "Hash": "80242086355b11cd9d7362f5e7d34549",
             "Size": 6460,
             "Crc": 0
         },
@@ -29184,8 +29184,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/PersonalityVoiceDlg/JP_Voice_Honglu_Wcorp_10606.json": {
-            "Hash": "d919779f732d36944be845fe054295fa",
-            "Size": 4733,
+            "Hash": "9cb7784d6283ac06f6af10718452cff3",
+            "Size": 4736,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/kr/KR_Passives_Enemy-cultivation.json": {
@@ -29489,8 +29489,8 @@
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/JP_Skills_Abnormality-twth.json": {
-            "Hash": "112873e3809e58e97e8a76b85af94077",
-            "Size": 27531,
+            "Hash": "343f4f1c2907505b9a279b72832bbeaf",
+            "Size": 27651,
             "Crc": 0
         },
         "Assets/Resources_moved/Localize/jp/StoryData/JP_P10208.json": {
