@@ -4,7 +4,7 @@
 
 ## 声明
 - **前提：有其他代理工具（如Shadowrocket、Surge等）**
-- 汉化资源来自[LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 **CC BY-NC-SA 4.0 协议**   
+- 汉化资源来自[LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 [**CC BY-NC-SA 4.0 协议**](https://creativecommons.org/licenses/by-nc-sa/4.0/)   
 - 包含战斗气泡，来自[Bilibili调爪](https://space.bilibili.com/485880984)
 - 关键词彩色高亮
 - 剧情故事中的人物名和称号已汉化
@@ -81,4 +81,4 @@
 Original project:
 https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany
 
-Licensed under CC BY-NC-SA 4.0.
+Licensed under CC [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
