@@ -1,5 +1,4 @@
 [![Stable](https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=stable)](https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest)
-[![Preview](https://img.shields.io/github/v/tag/ghcruise/LimbusCompany-IOS-Localization?label=preview)](https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases)
 ![Downloads](https://img.shields.io/github/downloads/ghcruise/LimbusCompany-IOS-Localization/total)
 # LimbusCompany-IOS-Localization
 本文将介绍一种《边狱公司》（Limbus Company）iOS 的客户端汉化方案。   
@@ -33,13 +32,8 @@
    
 ---
 ### 代理软件配置
-本项目提供两个汉化版本可供使用  
-- 正式版：零协更新后才会更新，对于游戏维护后的新增内容显示为`UNKNOWN`  
-- 先行版：需要定期更新模块。游戏维护后可立即更新，新内容无汉化。零协更新后也会更新。  
    
-  
 **如果你安装了[Script-Hub模块](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85)，则可以点击下方链接一键导入**   
-#### 正式版
 - [Shadowrocket模块](https://api.boxjs.app/shadowrocket/install?module=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue)  
   
 - [Stash覆写](https://api.boxjs.app/stash/install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
@@ -48,21 +42,12 @@
 
 - [Loon插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
     
-#### 先行版
-- [Shadowrocket模块](https://api.boxjs.app/shadowrocket/install?module=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization-pre-release.module%2F_end_%2FLimbusCompanyIOSLocalization-pre-release.sgmodule%3Ftype%3Dsurge-module%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue)  
-  
-- [Stash覆写](https://api.boxjs.app/stash/install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization-pre-release.module%2F_end_%2FLimbusCompanyIOSLocalization-pre-release.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
-  
-- [Surge模块](https://api.boxjs.app/surge/install-module?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization-pre-release.module%2F_end_%2FLimbusCompanyIOSLocalization-pre-release.sgmodule%3Ftype%3Dsurge-module%26target%3Dsurge-module%26del%3Dtrue%26jqEnabled%3Dtrue&name=)  
 
-- [Loon插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization-pre-release.module%2F_end_%2FLimbusCompanyIOSLocalization-pre-release.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
-  
 
 **如果你没有安装Script-Hub模块，建议你安装一个。如果实在不想安装，请看下文**
-- Shadowrocket模块  
+- Shadowrocket 模块  
 复制下方链接，导入Shadowrocket模块中并启用
-    - [正式版](https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/LimbusCompanyIOSLocalization.module)
-    - [先行版](https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/LimbusCompanyIOSLocalization-pre-release.module)
+    - [Shadowrocket 模块](https://raw.githubusercontent.com/ghcruise/LimbusCompany-IOS-Localization/refs/heads/main/LimbusCompanyIOSLocalization.module)
 - Surge & Loon & Quantumult X  
 ~~由于作者没有这些代理工具，所以也不会有这部分的内容~~  
   
