@@ -1,13 +1,15 @@
 <h1 align="center">LimbusCompany-IOS-Localization</h1>
 <p align="center">
-  边狱公司 IOS客户端中文本地化
+  边狱公司 IOS客户端 中文本地化
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=Version&style=for-the-badge" />
+  <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest><img src="https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=Version&style=for-the-badge" /></a>
+  <a href=https://creativecommons.org/licenses/by-nc-sa/4.0><img src="https://img.shields.io/badge/Licence-CC_BY--NC--SA_4.0-blue?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.json&label=Game%20Launches&logo=github&color=faf599&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.zip&label=Installs&logo=github&color=efefef&style=for-the-badge" />
+  <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization><img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.json&label=Game%20Launches&logo=github&color=D4AF37&style=for-the-badge" /></a>
+  <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization><img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.zip&label=Installs&logo=github&color=A8A8A8&style=for-the-badge" /></a>
+  <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization><img src="https://img.shields.io/github/stars/ghcruise/LimbusCompany-IOS-Localization?label=Stars&logo=github&color=CD7F32&style=for-the-badge" /></a>
 </p>
 
 本文将介绍一种《边狱公司》（Limbus Company）iOS 的客户端汉化方案。   
@@ -37,7 +39,9 @@
 3. 在弹出的证书页面选择`生成新的CA证书`并确认
 4. 点击`安装证书`并允许下载描述文件
 5. 在设备的`设置`→`通用`→`VPN与设备管理`页面选择下载的描述文件并安装
-6. 在设备的`设置`→`通用`→`关于本机`→`证书信任设置`启用对安装证书的完全信任
+6. 在设备的`设置`→`通用`→`关于本机`→`证书信任设置`启用对安装证书的完全信任   
+
+[另一份教程](https://github.com/LOWERTOP/Shadowrocket#https%E8%A7%A3%E5%AF%86)
    
 ---
 ### 代理软件配置
