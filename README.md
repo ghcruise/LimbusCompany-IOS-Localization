@@ -1,9 +1,15 @@
-[![Stable](https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=stable)](https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest)
-![Downloads](https://img.shields.io/github/downloads/ghcruise/LimbusCompany-IOS-Localization/total)  
-![Launches](https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.json&label=game%20launches&logo=github&color=green)
+<h1 align="center">LimbusCompany-IOS-Localization</h1>
+<p align="center">
+  边狱公司 IOS客户端中文本地化
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=Version&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.json&label=Game%20Launches&logo=github&color=faf599&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.zip&label=Installs&logo=github&color=efefef&style=for-the-badge" />
+</p>
 
-
-# LimbusCompany-IOS-Localization
 本文将介绍一种《边狱公司》（Limbus Company）iOS 的客户端汉化方案。   
 适用于不想使用**Q公司**、**K公司**、**O公司**、**U公司**等加速器产品，且有其他代理工具的人群   
 
@@ -13,8 +19,8 @@
 - 包含战斗气泡，来自[Bilibili调爪](https://space.bilibili.com/485880984)
 - 关键词彩色高亮
 - 剧情故事中的人物名和称号已汉化
-- 本项目实现的是对游戏内日语替换，因此选择日语才可以看到汉化效果。同样地，可以参考下文 [详细原理](#原理简介) 实现对韩语或英语的替换，同样可以达到本项目的效果
-- 由于IOS端字库限制，本项目在尽可能保留原意的前提下对汉化资源中的部分文本进行了替换  
+- 本项目实现的是对游戏内**日语**替换，因此选择日语才可以看到汉化效果。同样地，可以参考下文 [详细原理](#原理简介) 实现对韩语或英语的替换，同样可以达到本项目的效果
+- 由于IOS客户端字库限制，本项目在尽可能保留原意的前提下对汉化资源中的部分文本进行了替换  
 [字符映射表（施工中）]()
 
 
