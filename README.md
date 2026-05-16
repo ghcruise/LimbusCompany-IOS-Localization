@@ -17,7 +17,7 @@
 
 ## 声明
 - **前提：有其他代理工具（如Shadowrocket、Surge等）**
-  - 如果您能够直连进入游戏，可以使用 [**ProxyPin**](https://apps.apple.com/app/proxypin/id6450932949) 代替上述代理工具，且无需节点 [[查看教程（施工中）]()]
+  - 如果您能够直连进入游戏，可以使用 [**ProxyPin**](https://github.com/wanghongenpin/proxypin) 代替上述代理工具，且无需节点  
 - 汉化资源来自 [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 [**CC BY-NC-SA 4.0 协议**](https://creativecommons.org/licenses/by-nc-sa/4.0/)   
 - 包含战斗气泡，文本来自 [Bilibili调爪](https://space.bilibili.com/485880984)
 - 关键词彩色高亮
@@ -31,9 +31,7 @@
 
 [详细原理（施工中）]()
 ## 使用方法 
-本文以Shadowrocket为例，其它代理工具请参照各自工具的使用方法  
-
-### MitM配置 - CA证书安装
+###  ！！必需！！ MitM配置 - CA证书安装 —— 以 Shadowrocket 为例
 1. 打开Shadowrocket，进入`配置`页面，点击当前使用的规则最右侧的`ⓘ`进入`conf页面`
 2. 进入`HTTPS解密`页面，启用`HTTPS解密`
 3. 在弹出的证书页面选择`生成新的CA证书`并确认
@@ -41,8 +39,10 @@
 5. 在设备的`设置`→`通用`→`VPN与设备管理`页面选择下载的描述文件并安装
 6. 在设备的`设置`→`通用`→`关于本机`→`证书信任设置`启用对安装证书的完全信任   
 
-[另一份教程](https://github.com/LOWERTOP/Shadowrocket#https%E8%A7%A3%E5%AF%86)
-   
+[另一份教程 （Shadowrocket）](https://github.com/LOWERTOP/Shadowrocket#https%E8%A7%A3%E5%AF%86)  
+  
+其他代理工具请参考各自工具的使用方法  
+
 ---
 ### 代理软件配置
    
@@ -63,7 +63,33 @@
   
 - Surge & Loon & Quantumult X  
 ~~由于作者没有这些代理工具，所以也不会有这部分的内容~~  
-  
+   
+     
+
+**如果你所在的地区可以不通过代理或加速器进入游戏**  
+- 推荐使用 [**ProxyPin**](https://github.com/wanghongenpin/proxypin)  
+软件中启用HTTPS代理并安装根证书后，在“请求重写”列表中添加以下两个条目，请完整复制包含正则表达式的URL  
+    
+  **1、LimbusCompanyManifest**
+  ```
+  URL: [ANY] 
+  ^https://downloadcommon\.limbuscompanycdn\.org/.*LocalizePatchInfo\.json$
+
+  行为: 重定向
+
+  重定向到: 
+  https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/manifest.json
+  ```
+  **2、LimbusCompanyLanguagePack**
+  ```
+  URL: [ANY] 
+  ^https?://.*localize_jp.zip$
+
+  行为: 重定向
+
+  重定向到:
+  https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/localize_jp.zip
+  ```
 
 ---
 ### 启动游戏
