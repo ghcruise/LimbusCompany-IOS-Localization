@@ -68,28 +68,7 @@
 
 **如果你所在的地区可以不通过代理或加速器进入游戏**  
 - 推荐使用 [**ProxyPin**](https://github.com/wanghongenpin/proxypin)  
-软件中启用HTTPS代理并安装根证书后，在“请求重写”列表中添加以下两个条目，请完整复制包含正则表达式的URL  
-    
-  **1、LimbusCompanyManifest**
-  ```
-  URL: [ANY] 
-  ^https://downloadcommon\.limbuscompanycdn\.org/.*LocalizePatchInfo\.json$
-
-  行为: 重定向
-
-  重定向到: 
-  https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/manifest.json
-  ```
-  **2、LimbusCompanyLanguagePack**
-  ```
-  URL: [ANY] 
-  ^https?://.*localize_jp.zip$
-
-  行为: 重定向
-
-  重定向到:
-  https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/localize_jp.zip
-  ```
+具体操作方法还在测试中
 
 ---
 ### 启动游戏
