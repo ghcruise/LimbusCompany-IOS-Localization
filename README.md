@@ -5,6 +5,8 @@
 <p align="center">
   <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest><img src="https://img.shields.io/github/v/release/ghcruise/LimbusCompany-IOS-Localization?label=Version&style=for-the-badge&cacheSeconds=1800" /></a>
   <a href=https://creativecommons.org/licenses/by-nc-sa/4.0><img src="https://img.shields.io/badge/Licence-CC_BY--NC--SA_4.0-blue?style=for-the-badge" />
+  <a href="https://t.me/+EqcZfY8aKAo1ZWE1">
+    <img src="https://img.shields.io/badge/Telegram-group-blue?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 <p align="center">
   <a href=https://github.com/ghcruise/LimbusCompany-IOS-Localization><img src="https://img.shields.io/badge/dynamic/json?url=https://red-shadow-a504.ghcruise.workers.dev&query=$.json&label=Game%20Launches&logo=github&color=D4AF37&style=for-the-badge&cacheSeconds=60" /></a>
