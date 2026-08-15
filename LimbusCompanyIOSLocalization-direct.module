@@ -4,13 +4,15 @@
 #!arguments-desc=api_cdn_ip:Amazon Cloudfront优选IP
 
 [Host]
-*.googleapis.com = 172.98.12.23
+securetoken.googleapis.com = 172.98.12.23
+firebaselogging-pa.googleapis.com = 172.98.12.23
 *.limbuscompanyapi.com = {{{api_cdn_ip}}}
 
 [Rule]
 IP-CIDR,172.98.12.23/32,DIRECT
 IP-CIDR,{{{api_cdn_ip}}}/32,DIRECT
-DOMAIN-SUFFIX,googleapis.com,DIRECT
+DOMAIN,securetoken.googleapis.com,DIRECT
+DOMAIN,firebaselogging-pa.googleapis.com,DIRECT
 DOMAIN-SUFFIX,limbuscompanyapi.com,DIRECT
 DOMAIN-SUFFIX,unity3d.com,DIRECT
 DOMAIN-SUFFIX,limbuscompanycdn.org,DIRECT
