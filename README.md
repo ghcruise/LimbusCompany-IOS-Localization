@@ -46,7 +46,8 @@
 
 ---
 ### 代理软件配置
-**如果您在中国大陆地区且无节点，可以通过该链接导入直连模块，现阶段仅支持Shadowrocket**
+**如果您在中国大陆地区且无节点，可以通过该链接导入直连模块，~~现阶段仅支持Shadowrocket~~**  
+如果你没有节点，你也大概率不会有其他软件
 - [Shadowrocket 直连+反代+IP优选](https://proxy-module.voidfissure.de/shadowrocket-direct)  
 
 **根据使用的软件，通过下方链接一键导入**
