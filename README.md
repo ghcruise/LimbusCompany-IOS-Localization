@@ -46,11 +46,8 @@
 
 ---
 ### 代理软件配置
-**如果您在中国大陆地区且无节点，可以通过该链接导入直连模块，~~现阶段仅支持Shadowrocket~~**  
-如果你没有节点，你也大概率不会有其他软件
-- [Shadowrocket 直连+反代+IP优选](https://proxy-module.voidfissure.de/shadowrocket-direct)  
 
-**根据使用的软件，通过下方链接一键导入**
+#### 根据使用的软件，通过下方链接一键导入
 - [Shadowrocket 模块](https://proxy-module.voidfissure.de/shadowrocket)  
 
 - [Stash 覆写](https://proxy-module.voidfissure.de/stash)
@@ -64,7 +61,7 @@
 - [Loon 插件](https://proxy-module.voidfissure.de/loon)
 
 
-**如果你安装了 [Script-Hub 模块](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85)，则可以点击下方链接一键导入**   
+#### 如果你安装了 [Script-Hub 模块](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85)，则可以点击下方链接一键导入  
 - [Shadowrocket 模块](https://api.boxjs.app/shadowrocket/install?module=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.sgmodule%3Ftype%3Dsurge-module%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue)  
   
 - [Stash 覆写](https://api.boxjs.app/stash/install-override?url=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.stoverride%3Ftype%3Dsurge-module%26target%3Dstash-stoverride%26del%3Dtrue%26jqEnabled%3Dtrue)  
@@ -73,7 +70,9 @@
 
 - [Loon 插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
     
-
+#### 如果您在中国大陆地区且无节点，可以通过该链接导入直连模块，仅支持Shadowrocket  
+~~如果你没有节点，你也大概率不会有其他软件~~
+- [Shadowrocket 模块（不保证稳定性）](https://proxy-module.voidfissure.de/shadowrocket-direct) 
 
 ---
 ### 启动游戏
