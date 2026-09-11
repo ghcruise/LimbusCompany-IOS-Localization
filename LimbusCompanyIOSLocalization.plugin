@@ -1,0 +1,10 @@
+#!name = LimbusCompany IOS Localization
+#!desc = 边狱巴士iOS汉化插件 by ghcruise
+#!homepage = https://github.com/ghcruise/LimbusCompany-IOS-Localization
+
+[Rewrite]
+^https?://[^/]+\.limbuscompanycdn\.org/.*localize_jp\.zip(?:\?.*)?$ 302 https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/localize_jp.zip
+^https://downloadcommon\.limbuscompanycdn\.org/.*LocalizePatchInfo\.json(?:\?.*)?$ 302 https://github.com/ghcruise/LimbusCompany-IOS-Localization/releases/latest/download/manifest.json
+
+[Mitm]
+hostname = *.limbuscompanycdn.org
