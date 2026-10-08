@@ -47,7 +47,7 @@
 ---
 ### 代理软件配置
 
-#### 根据使用的软件，通过下方链接一键导入
+#### （有节点/有国际互联网连接）根据使用的软件，通过下方链接一键导入
 - [Shadowrocket 模块](https://proxy-module.voidfissure.de/shadowrocket)  
 
 - [Stash 覆写](https://proxy-module.voidfissure.de/stash)
@@ -70,7 +70,8 @@
 
 - [Loon 插件](https://www.nsloon.com/openloon/import?plugin=http%3A%2F%2Fscript.hub%2Ffile%2F_start_%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fghcruise%2FLimbusCompany-IOS-Localization%2Frefs%2Fheads%2Fmain%2FLimbusCompanyIOSLocalization.module%2F_end_%2FLimbusCompanyIOSLocalization.plugin%3Ftype%3Dsurge-module%26target%3Dloon-plugin%26del%3Dtrue%26jqEnabled%3Dtrue)   
     
-#### 如果您在中国大陆地区且无节点，可以通过该链接导入直连模块，仅支持Shadowrocket  
+#### （中国大陆地区无节点）可以通过该链接导入模块，仅支持Shadowrocket，不会及时维护
+不能安装上述的其他模块，否则会失效  
 ~~如果你没有节点，你也大概率不会有其他软件~~
 - [Shadowrocket 模块（不保证稳定性）](https://proxy-module.voidfissure.de/shadowrocket-direct) 
 
@@ -81,7 +82,7 @@
 - 启用上述配置  
 
 资源下载
-- **首次进入游戏会提示下载约26Mb资源文件则说明汉化成功**  
+- **首次进入游戏会提示下载约30Mb资源文件则说明汉化成功**  
 - **导入模块后汉化会随本项目自动更新，无需任何手动操作**
 
 ## 最后
