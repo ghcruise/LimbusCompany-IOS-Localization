@@ -20,7 +20,7 @@
 - **前提：有其他代理工具（如Shadowrocket、Stash、~~Surge~~等）**
   - 如果您所在的地区有通畅的国际互联网连接，可以使用 Shadowrocket ，无需节点  
 - 汉化资源来自 [LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)，遵循 [**CC BY-NC-SA 4.0 协议**](https://creativecommons.org/licenses/by-nc-sa/4.0/)   
-- 包含战斗气泡，文本来自 [Bilibili调爪](https://space.bilibili.com/485880984)
+- 包含彩色渐变战斗气泡
 - 关键词彩色高亮
 - 剧情故事中的人物名和称号**完全汉化**
 - 本项目实现的是对游戏内**日语**替换，因此选择**日语**才可以看到汉化效果。同样地，可以参考下文 [详细原理](#原理简介) 实现对韩语或英语的替换，同样可以达到本项目的效果
